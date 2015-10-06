@@ -958,7 +958,7 @@ Hier zijn de gebruikte instellingen:
 	'The card number is incorrect.' => 'Het kaartnummer klopt niet.',
 	'The card number is invalid.' => 'Het kaartnummer is ongeldig.',
 	'The cost of this edition just changed.' => 'De kost van deze editie is net veranderd.',
-	'The CSRF token could not be verified.' => 'Het CSRF token kon nie worden gevalideerd.',
+	'The CSRF token could not be verified.' => 'Het CSRF token kon niet worden gevalideerd.',
 	'The database charset isn’t set in your db config file.' => 'Charset van database is niet ingesteld in uw db configuratiebestand.',
 	'The database collation isn’t set in your db config file.' => 'Database collatie is niet ingesteld in uw db configuratiebestand.',
 	'The database name isn’t set in your db config file.' => 'Naam van database is niet ingesteld in uw db configuratiebestand.',
